@@ -5,9 +5,6 @@ class Grade_manager:
     def __init__(self):
         pass
 
-    def tos(self):
-
-        pass
 
 
 def teacher_login_UI():
